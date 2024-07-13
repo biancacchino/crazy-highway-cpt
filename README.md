@@ -2,8 +2,6 @@
 Crazy Highway is a JavaFX 18 application created for my culminating task in highschool.
 its an 80s themed shoot 'em up arcade themed game.
 
-made for my high school class.
-
 ## Built with:
 - Eclipse
 - JavaFX 18
